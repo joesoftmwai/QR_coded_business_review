@@ -9,7 +9,7 @@ Leveraged [https://www.qr-code-generator.com/](https://www.qr-code-generator.com
 
 ### Output Design
 
-<img src="https://github.com/joesoftmwai/QR_coded_business_review/blob/main/public/EmpireClassics777.png" alt="top_learners" height="475" />
+<img src="https://github.com/joesoftmwai/QR_coded_business_review/blob/main/public/output_design.png" alt="output design" height="475" />
 
 ### Setting Up
 
