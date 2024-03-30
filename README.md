@@ -3,13 +3,13 @@
 
 Ofcourse we do Next Js, Tailwind, next/font for this one.
 
-## Generating the QR code
+### Generating the QR code
 
 Leveraged [https://www.qr-code-generator.com/](https://www.qr-code-generator.com/)
 
 ### Output Design
 
-
+<img src="https://github.com/joesoftmwai/QR_coded_business_review/blob/main/public/EmpireClassics777.png" alt="top_learners" height="475" />
 
 ### Setting Up
 
